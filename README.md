@@ -9,5 +9,5 @@ My name is Fausto German, I am a Computer Science student at the University of N
 > *Albert Einstein*
 
 ### Other Ways to Reach Me 🔗📬
-Find me on <a href="https://likedin.com/in/fgerman" target="_blank" rel="noopener">LinkedIn</a> 👨🏽‍💼 <br />
+Find me on <a href="https://linkedin.com/in/fgerman" target="_blank" rel="noopener">LinkedIn</a> 👨🏽‍💼 <br />
 Look at my pens on <a href="https://codepen.io/faustotnc" target="_blank" rel="noopener">CodePen</a> ✏️
