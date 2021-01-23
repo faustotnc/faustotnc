@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/faustotnc/faustotnc/master/chaos.gif" alt="Main image that lists Fausto German's topics of interest: Computer Science, Machine Learning, Artificial Intelligence, Algorithms, and Mathematics." width="100%">  
 
-My name is Fausto German. I am a student at the University of North Carolina at Charlotte, working towards a Bachelor of Science in Computer Science degree with a concentration in A.I., Robotics, and gaming. My primary areas of interest are computer vision, compiler/intepreter implementations, and programming language design.
+My name is Fausto German. I am a student at the University of North Carolina at Charlotte, working towards a Bachelor of Science in Computer Science degree with a concentration in A.I., Robotics, and Gaming. My primary areas of interest are computer vision and compiler/intepreter design.
 
 > Imagination is more important than knowledge.  For knowledge is limited, whereas imagination embraces the entire world, stimulating progress, giving birth to evolution.
 >
