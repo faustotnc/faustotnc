@@ -9,5 +9,7 @@ My name is Fausto German. I am a student at the University of North Carolina at 
 > *Albert Einstein*
 
 ### Other Ways to Reach Me 🔗📬
+Send me an <a href="mailto:faustotnc@gmail.com" target="_blank" rel="noopener">email</a> ✉️ <br />
 Find me on <a href="https://linkedin.com/in/fgerman" target="_blank" rel="noopener">LinkedIn</a> 👨🏽‍💼 <br />
+Visit my <a href="https://faustogerman.com" target="_blank" rel="noopener">personal website</a> 🌎<br />
 Look at my pens on <a href="https://codepen.io/faustotnc" target="_blank" rel="noopener">CodePen</a> ✏️
