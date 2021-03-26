@@ -1,6 +1,6 @@
 # Hi there! Welcome to my profile. 👋🏾
 
-<img src="https://raw.githubusercontent.com/faustotnc/faustotnc/master/chaos.gif" alt="Main image that lists Fausto German's topics of interest: Computer Science, Machine Learning, Artificial Intelligence, Algorithms, and Mathematics." width="100%">  
+<img src="./machineLearning.gif" alt="Main image that lists Fausto German's topics of interest: Computer Science, Machine Learning, Artificial Intelligence, Algorithms, and Mathematics." width="100%">  
 
 My name is Fausto German. I am a student at the University of North Carolina at Charlotte, working towards a Bachelor of Science in Computer Science degree with a concentration in Data Science. My primary areas of interest are machine learning engineering and compiler/interpreter design.
 
