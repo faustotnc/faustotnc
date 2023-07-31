@@ -3,7 +3,7 @@
 ![Main image that lists Fausto German's topics of interest: Computer Science, Machine Learning, Artificial Intelligence, Algorithms, and Mathematics.](./MachineLearning.gif)
 <p align="center"><sub>Image Source: https://alykhantejani.github.io/a-brief-introduction-to-gradient-descent/</sub></p>
 
-My name is Fausto German. I am a student at the University of North Carolina at Charlotte, working towards a Master of Science in Computer Science degree with a concentration in Data Science. My primary areas of interest are machine learning engineering and compiler/interpreter design.
+My name is Fausto German. I am a student at Virginia Polytechnic Institute and State University, working towards a Master of Science in Computer Science degree (with a focus on data science, machine learning, and interactive sensemaking). My primary areas of interest are machine learning engineering and compiler/interpreter design.
 
 > Imagination is more important than knowledge.  For knowledge is limited, whereas imagination embraces the entire world, stimulating progress, giving birth to evolution.
 >
